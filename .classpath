@@ -5,5 +5,11 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="/Users/Lenny/Documents/WorkspaceForEclipse/JAVA JAR FIle/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Lenny/Documents/WorkspaceForEclipse/JAVA JAR FIle/fest-assert-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Lenny/Documents/WorkspaceForEclipse/JAVA JAR FIle/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Lenny/Documents/WorkspaceForEclipse/JAVA JAR FIle/tempus-fugit-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Lenny/Documents/WorkspaceForEclipse/JAVA JAR FIle/unitils-core-3.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Lenny/Documents/WorkspaceForEclipse/JAVA JAR FIle/JUnitParams-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Lenny/Documents/WorkspaceForEclipse/JAVA JAR FIle/apache-commons-lang.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
